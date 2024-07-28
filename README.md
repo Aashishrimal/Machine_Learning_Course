@@ -1,8 +1,8 @@
 To get rid of " pip install"
 you can directly run these code in browser .
-Simple linear regression : 
+Simple linear regression :   
  https://nbviewer.jupyter.org/github/Aashishrimal/Machine_Learning_Course/blob/main/Simple_Linear_Regression.ipynb
-Multiple Linear Regression : 
+Multiple Linear Regression :   
  https://nbviewer.jupyter.org/github/Aashishrimal/Machine_Learning_Course/blob/main/MultipleLinearRegression.ipynb
-Logistic Regression : 
+Logistic Regression :   
  https://nbviewer.jupyter.org/github/Aashishrimal/Machine_Learning_Course/blob/main/LogisticRegression.ipynb

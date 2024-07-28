@@ -1,6 +1,0 @@
-[submodule "linear-regression"]
-	path = linear-regression
-	url = git@github.com:Aashishrimal/LinearRegression.git
-[submodule "logistic-regression"]
-	path = logistic-regression
-	url = git@github.com:Aashishrimal/Logistic-Regression-.git

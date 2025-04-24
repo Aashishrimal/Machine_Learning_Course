@@ -35,9 +35,4 @@ This will allow you to run and modify the notebooks directly in your browser, wi
 
 
 
-3. **Launch Jupyter Notebook**:
-
-   ```bash
-   jupyter notebook
-   ```
  

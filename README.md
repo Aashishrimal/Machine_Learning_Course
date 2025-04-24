@@ -33,22 +33,7 @@ To interact with the notebooks without installing anything locally:
 
 This will allow you to run and modify the notebooks directly in your browser, without the need to install any packages or software.
 
-## 🧰 Run Locally
 
-If you prefer to run the notebooks on your local machine:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Aashishrimal/Machine_Learning_Course.git
-   cd Machine_Learning_Course
-   ```
-
-2. **Install the required packages**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. **Launch Jupyter Notebook**:
 

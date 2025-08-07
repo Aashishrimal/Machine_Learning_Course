@@ -18,20 +18,6 @@ Access the rendered notebooks directly in your browser:
 
 > 🔍 **Note**: These links display static versions of the notebooks. Interactive features may not function in this view.
 
-## 🚀 Run Notebooks Interactively with Binder
-
-To interact with the notebooks without installing anything locally:
-
-1. Navigate to the corresponding notebook in the `main` branch:
-   - [Simple Linear Regression](https://github.com/Aashishrimal/Machine_Learning_Course/blob/main/Simple_Linear_Regression.ipynb)
-   - [Multiple Linear Regression](https://github.com/Aashishrimal/Machine_Learning_Course/blob/main/MultipleLinearRegression.ipynb)
-   - [Logistic Regression](https://github.com/Aashishrimal/Machine_Learning_Course/blob/main/LogisticRegression.ipynb)
-
-2. Click the **"Launch Binder"** badge below to open the entire repository in an interactive environment:
-
-   [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aashishrimal/Machine_Learning_Course/HEAD)
-
-This will allow you to run and modify the notebooks directly in your browser, without the need to install any packages or software.
 
 
 
